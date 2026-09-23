@@ -8,10 +8,12 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
-from pathlib import Path
 import sys
+from pathlib import Path
 
-sys.path.append(str(Path(__file__).parent))
+# Make sure the current folder is in the path
+ROOT = Path(__file__).parent
+sys.path.insert(0, str(ROOT))
 
 from utils.data_generator import generate_projects
 from utils.model_utils import (
