@@ -1,0 +1,251 @@
+project_id,project_name,ministry,sector,status,original_cost_cr,revised_cost_cr,expenditure_cr,physical_progress_pct,planned_duration_months,milestone_slip_months,spend_deviation_pct,cost_overrun_pct,progress_variance,start_date,planned_end_date,cost_risk,delay_risk,overall_risk
+PRJ-0001,Health Infra Project 1,"Ministry of Ports, Shipping & Waterways",Health Infra,Completed,64.44,72.48,71.63,96.5,35,0.4,2.3,12.5,2.3,2025-01-07,2027-11-23,0,0,0
+PRJ-0002,Water Supply Project 2,Ministry of Heavy Industries,Water Supply,Delayed,129.26,229.95,77.31,48.2,58,5.4,-14.5,77.9,14.5,2025-07-16,2030-04-21,1,0,1
+PRJ-0003,Education Infra Project 3,Ministry of Jal Shakti,Education Infra,Completed,2429.22,3021.2,2881.14,99.5,31,0.0,-4.2,24.4,4.2,2024-04-01,2026-10-18,0,0,0
+PRJ-0004,Coal Mining Project 4,Ministry of Civil Aviation,Coal Mining,Delayed,907.23,929.96,766.12,65.3,55,21.3,17.1,2.5,17.1,2024-06-10,2028-12-16,0,1,1
+PRJ-0005,Rural Roads Project 5,Ministry of Petroleum & Natural Gas,Rural Roads,Completed,4059.83,7194.85,6805.24,95.1,56,0.0,-0.5,77.2,0.5,2024-02-10,2028-09-16,1,0,1
+PRJ-0006,Power Generation Project 6,Ministry of Petroleum & Natural Gas,Power Generation,Completed,565.74,860.41,890.82,98.2,20,0.0,5.3,52.1,5.3,2024-02-02,2025-09-24,1,0,1
+PRJ-0007,Power Generation Project 7,Ministry of Road Transport & Highways,Power Generation,Ongoing,786.47,1139.61,873.82,66.4,50,0.0,10.3,44.9,10.3,2025-01-27,2029-03-07,1,0,1
+PRJ-0008,Water Supply Project 8,"Ministry of Ports, Shipping & Waterways",Water Supply,Ongoing,723.6,867.91,415.13,54.6,54,0.8,-6.7,19.9,6.7,2025-06-24,2029-11-30,0,0,0
+PRJ-0009,Coal Mining Project 9,Ministry of Railways,Coal Mining,Completed,733.98,1205.88,1210.95,96.4,41,0.0,4.1,64.3,4.1,2024-11-26,2028-04-09,1,0,1
+PRJ-0010,Oil & Gas Project 10,Department of Telecommunications,Oil & Gas,Ongoing,284.98,395.51,278.42,31.7,53,0.2,38.7,38.8,38.7,2025-11-14,2030-03-23,1,1,1
+PRJ-0011,Water Supply Project 11,Ministry of Rural Development,Water Supply,Ongoing,652.92,1024.96,275.17,28.8,67,3.9,-2.0,57.0,2.0,2024-03-21,2029-09-21,1,0,1
+PRJ-0012,Roads & Highways Project 12,Ministry of Road Transport & Highways,Roads & Highways,Ongoing,234.71,419.78,144.26,16.3,15,0.0,18.1,78.9,18.1,2025-03-14,2026-06-07,1,0,1
+PRJ-0013,Urban Development Project 13,Ministry of Railways,Urban Development,Ongoing,452.55,507.12,282.24,80.1,27,0.0,-24.4,12.1,24.4,2024-12-14,2027-03-04,1,0,1
+PRJ-0014,Oil & Gas Project 14,"Ministry of Ports, Shipping & Waterways",Oil & Gas,Delayed,515.25,571.94,241.84,68.9,36,8.1,-26.7,11.0,26.7,2024-05-30,2027-05-15,1,1,1
+PRJ-0015,Railways Project 15,Ministry of Rural Development,Railways,Under Review,385.03,682.4,407.14,83.6,43,6.2,-24.0,77.2,24.0,2024-01-09,2027-07-22,1,1,1
+PRJ-0016,Water Supply Project 16,Ministry of Chemicals & Fertilizers,Water Supply,Ongoing,186.41,320.41,203.51,69.6,46,10.0,-6.1,71.9,6.1,2024-04-21,2028-01-31,1,1,1
+PRJ-0017,Oil & Gas Project 17,Ministry of Health & Family Welfare,Oil & Gas,Ongoing,432.08,438.33,238.94,59.0,59,1.5,-4.5,1.4,4.5,2025-05-18,2030-03-23,0,0,0
+PRJ-0018,Urban Development Project 18,Ministry of Agriculture,Urban Development,Under Review,99.04,137.61,120.39,89.5,38,2.5,-2.0,38.9,2.0,2024-08-13,2027-09-27,1,0,1
+PRJ-0019,Power Generation Project 19,Ministry of Jal Shakti,Power Generation,Completed,37.15,38.45,38.13,96.7,41,3.8,2.5,3.5,2.5,2025-04-21,2028-09-02,0,0,0
+PRJ-0020,Power Generation Project 20,Ministry of Road Transport & Highways,Power Generation,Ongoing,260.02,375.84,337.85,29.0,69,2.7,60.9,44.5,60.9,2024-11-18,2030-07-20,1,1,1
+PRJ-0021,Water Supply Project 21,Ministry of Railways,Water Supply,Completed,62.08,68.87,63.4,95.4,50,0.0,-3.3,10.9,3.3,2025-04-21,2029-05-30,0,0,0
+PRJ-0022,Education Infra Project 22,Ministry of Petroleum & Natural Gas,Education Infra,Completed,443.19,758.74,726.31,97.7,39,0.8,-2.0,71.2,2.0,2024-12-19,2028-03-03,1,0,1
+PRJ-0023,Urban Development Project 23,Ministry of Steel,Urban Development,Ongoing,269.41,385.17,158.43,71.8,19,0.0,-30.7,43.0,30.7,2024-02-22,2025-09-14,1,1,1
+PRJ-0024,Agriculture Infra Project 24,Ministry of Health & Family Welfare,Agriculture Infra,Under Review,406.17,638.37,116.73,20.8,67,9.6,-2.5,57.2,2.5,2025-08-26,2031-02-26,1,1,1
+PRJ-0025,Roads & Highways Project 25,Ministry of Road Transport & Highways,Roads & Highways,Ongoing,108.54,129.36,29.12,43.1,36,9.1,-20.6,19.2,20.6,2025-05-02,2028-04-16,1,1,1
+PRJ-0026,Telecom Project 26,Ministry of Power,Telecom,Delayed,140.4,158.22,38.94,44.5,40,2.9,-19.9,12.7,19.9,2024-08-07,2027-11-20,0,0,0
+PRJ-0027,Irrigation Project 27,Ministry of Road Transport & Highways,Irrigation,Ongoing,1558.81,1615.31,726.39,64.2,69,6.1,-19.2,3.6,19.2,2025-10-20,2031-06-21,0,1,1
+PRJ-0028,Railways Project 28,Ministry of Health & Family Welfare,Railways,Ongoing,531.97,776.88,357.78,40.3,71,2.8,5.8,46.0,5.8,2025-06-28,2031-04-28,1,0,1
+PRJ-0029,Ports Project 29,Ministry of Road Transport & Highways,Ports,Stalled,342.81,362.33,146.81,37.7,37,10.6,2.9,5.7,2.9,2025-08-24,2028-09-07,0,1,1
+PRJ-0030,Power Transmission Project 30,Ministry of Jal Shakti,Power Transmission,Ongoing,196.24,314.08,249.84,32.7,60,8.7,46.8,60.0,46.8,2024-04-08,2029-03-13,1,1,1
+PRJ-0031,Oil & Gas Project 31,Ministry of Power,Oil & Gas,Ongoing,144.4,206.13,112.8,43.7,36,0.9,11.1,42.7,11.1,2024-12-07,2027-11-22,1,0,1
+PRJ-0032,Health Infra Project 32,Ministry of Agriculture,Health Infra,Ongoing,796.98,855.45,540.6,51.7,63,0.0,11.5,7.3,11.5,2025-04-13,2030-06-16,0,0,0
+PRJ-0033,Power Generation Project 33,Ministry of Housing & Urban Affairs,Power Generation,Stalled,242.12,310.09,75.55,38.7,23,9.0,-14.3,28.1,14.3,2024-01-09,2025-11-29,1,1,1
+PRJ-0034,Irrigation Project 34,Ministry of Railways,Irrigation,Delayed,417.64,706.02,603.15,59.2,28,3.7,26.2,69.1,26.2,2025-05-25,2027-09-12,1,1,1
+PRJ-0035,Coal Mining Project 35,"Ministry of Ports, Shipping & Waterways",Coal Mining,Stalled,160.48,174.76,95.08,66.5,24,13.7,-12.1,8.9,12.1,2024-08-07,2026-07-28,0,1,1
+PRJ-0036,Roads & Highways Project 36,Ministry of Rural Development,Roads & Highways,Ongoing,266.02,477.34,99.78,33.0,46,4.1,-12.1,79.4,12.1,2025-10-20,2029-07-31,1,0,1
+PRJ-0037,Power Generation Project 37,Ministry of Road Transport & Highways,Power Generation,Stalled,3387.22,4138.86,1243.71,48.8,37,1.6,-18.8,22.2,18.8,2025-10-09,2028-10-23,0,0,0
+PRJ-0038,Rural Roads Project 38,Department of Telecommunications,Rural Roads,Ongoing,378.03,653.52,528.06,60.7,29,0.0,20.1,72.9,20.1,2024-09-12,2027-01-30,1,0,1
+PRJ-0039,Roads & Highways Project 39,Ministry of Road Transport & Highways,Roads & Highways,Delayed,307.2,549.34,247.97,74.8,37,17.6,-29.7,78.8,29.7,2024-03-03,2027-03-18,1,1,1
+PRJ-0040,Urban Development Project 40,Ministry of Housing & Urban Affairs,Urban Development,Stalled,1661.33,2667.54,1206.48,76.4,32,9.7,-31.2,60.6,31.2,2024-03-18,2026-11-03,1,1,1
+PRJ-0041,Ports Project 41,Ministry of Railways,Ports,Ongoing,442.88,619.38,328.87,34.2,14,0.0,18.9,39.9,18.9,2024-11-01,2025-12-26,1,0,1
+PRJ-0042,Health Infra Project 42,Ministry of Education,Health Infra,Completed,177.17,267.79,249.54,97.8,50,3.9,-4.6,51.1,4.6,2025-02-25,2029-04-05,1,0,1
+PRJ-0043,Health Infra Project 43,Ministry of Road Transport & Highways,Health Infra,Ongoing,1924.3,2881.97,2420.54,36.1,16,2.5,47.9,49.8,47.9,2024-05-17,2025-09-09,1,1,1
+PRJ-0044,Steel Plants Project 44,Department of Telecommunications,Steel Plants,Delayed,396.92,505.38,293.02,5.7,34,16.4,52.3,27.3,52.3,2024-07-01,2027-04-17,1,1,1
+PRJ-0045,Irrigation Project 45,Ministry of Power,Irrigation,Ongoing,184.37,265.3,153.22,56.1,23,0.0,1.7,43.9,1.7,2024-12-11,2026-11-01,1,0,1
+PRJ-0046,Health Infra Project 46,Ministry of Education,Health Infra,Delayed,155.26,155.58,131.41,27.3,19,11.8,57.1,0.2,57.1,2025-09-16,2027-04-09,1,1,1
+PRJ-0047,Railways Project 47,Ministry of Agriculture,Railways,Completed,95.93,98.75,97.68,97.2,18,0.0,1.7,2.9,1.7,2024-01-03,2025-06-26,0,0,0
+PRJ-0048,Coal Mining Project 48,Ministry of Housing & Urban Affairs,Coal Mining,Delayed,82.64,138.22,30.6,38.5,55,8.0,-16.3,67.3,16.3,2025-06-20,2029-12-26,1,1,1
+PRJ-0049,Railways Project 49,Ministry of Education,Railways,Delayed,1444.21,1881.83,790.29,77.7,63,4.9,-35.7,30.3,35.7,2024-10-08,2029-12-11,1,1,1
+PRJ-0050,Power Transmission Project 50,Ministry of Health & Family Welfare,Power Transmission,Stalled,54.02,57.82,45.95,68.2,35,3.5,11.3,7.0,11.3,2024-05-16,2027-04-01,0,0,0
+PRJ-0051,Power Transmission Project 51,Ministry of Chemicals & Fertilizers,Power Transmission,Ongoing,242.12,382.14,308.27,66.5,13,4.5,14.2,57.8,14.2,2025-01-26,2026-02-20,1,0,1
+PRJ-0052,Roads & Highways Project 52,Ministry of Jal Shakti,Roads & Highways,Completed,2244.81,3623.63,3363.59,95.7,22,2.7,-2.8,61.4,2.8,2025-05-25,2027-03-16,1,0,1
+PRJ-0053,Railways Project 53,Ministry of Heavy Industries,Railways,Ongoing,118.82,183.6,139.2,53.0,22,1.7,22.8,54.5,22.8,2025-07-03,2027-04-24,1,0,1
+PRJ-0054,Education Infra Project 54,Ministry of Heavy Industries,Education Infra,Under Review,545.51,860.42,162.17,52.7,40,1.2,-33.8,57.7,33.8,2024-08-16,2027-11-29,1,1,1
+PRJ-0055,Power Transmission Project 55,Ministry of Agriculture,Power Transmission,Ongoing,1902.93,2590.95,1868.14,96.6,43,8.5,-24.5,36.2,24.5,2025-11-21,2029-06-03,1,1,1
+PRJ-0056,Roads & Highways Project 56,Ministry of Rural Development,Roads & Highways,Ongoing,99.83,118.12,69.02,35.6,17,6.9,22.9,18.3,22.9,2025-10-07,2027-03-01,1,1,1
+PRJ-0057,Roads & Highways Project 57,Ministry of Education,Roads & Highways,Delayed,304.37,341.3,136.31,53.3,48,6.3,-13.3,12.1,13.3,2025-02-14,2029-01-24,0,1,1
+PRJ-0058,Agriculture Infra Project 58,Ministry of Civil Aviation,Agriculture Infra,Ongoing,661.8,1109.95,279.7,34.4,67,6.0,-9.2,67.7,9.2,2024-01-15,2029-07-17,1,0,1
+PRJ-0059,Power Transmission Project 59,Ministry of Jal Shakti,Power Transmission,Completed,1244.84,1841.4,1727.39,99.6,21,1.4,-5.8,47.9,5.8,2025-07-03,2027-03-25,1,0,1
+PRJ-0060,Steel Plants Project 60,Ministry of Petroleum & Natural Gas,Steel Plants,Under Review,144.34,209.6,148.25,77.4,67,3.2,-6.7,45.2,6.7,2024-05-06,2029-11-06,1,0,1
+PRJ-0061,Roads & Highways Project 61,Ministry of Chemicals & Fertilizers,Roads & Highways,Ongoing,275.92,493.31,405.07,33.1,65,1.9,49.0,78.8,49.0,2024-01-01,2029-05-04,1,1,1
+PRJ-0062,Power Generation Project 62,Ministry of Coal,Power Generation,Ongoing,146.61,209.64,185.72,65.0,13,1.7,23.6,43.0,23.6,2024-07-28,2025-08-22,1,0,1
+PRJ-0063,Urban Development Project 63,"Ministry of Ports, Shipping & Waterways",Urban Development,Ongoing,356.23,444.99,344.6,49.6,54,11.6,27.8,24.9,27.8,2025-10-23,2030-03-31,1,1,1
+PRJ-0064,Water Supply Project 64,Ministry of Petroleum & Natural Gas,Water Supply,Ongoing,34.63,43.22,20.22,49.4,62,0.0,-2.6,24.8,2.6,2024-11-13,2029-12-17,0,0,0
+PRJ-0065,Health Infra Project 65,Ministry of Agriculture,Health Infra,Delayed,278.03,396.91,212.29,38.5,41,12.6,15.0,42.8,15.0,2025-11-08,2029-03-22,1,1,1
+PRJ-0066,Railways Project 66,Ministry of Agriculture,Railways,Ongoing,752.06,768.36,251.7,93.1,35,6.5,-60.3,2.2,60.3,2025-03-18,2028-02-01,1,1,1
+PRJ-0067,Health Infra Project 67,Ministry of Road Transport & Highways,Health Infra,Completed,1096.38,1940.72,1999.44,98.7,65,1.5,4.3,77.0,4.3,2025-04-13,2030-08-15,1,0,1
+PRJ-0068,Power Transmission Project 68,Ministry of Health & Family Welfare,Power Transmission,Delayed,460.75,691.04,289.33,64.3,13,12.7,-22.5,50.0,22.5,2025-04-15,2026-05-10,1,1,1
+PRJ-0069,Telecom Project 69,Ministry of Power,Telecom,Ongoing,158.67,268.91,145.2,77.3,57,0.0,-23.3,69.5,23.3,2024-05-07,2029-01-11,1,0,1
+PRJ-0070,Steel Plants Project 70,Ministry of Coal,Steel Plants,Ongoing,1711.15,1892.23,1647.1,31.4,45,1.9,55.7,10.6,55.7,2024-03-15,2027-11-25,1,1,1
+PRJ-0071,Telecom Project 71,Ministry of Civil Aviation,Telecom,Ongoing,108.3,109.25,28.35,38.1,68,0.0,-12.1,0.9,12.1,2024-10-13,2030-05-15,0,0,0
+PRJ-0072,Railways Project 72,Ministry of Agriculture,Railways,Ongoing,52.69,83.8,18.12,69.8,47,0.0,-48.2,59.0,48.2,2025-01-05,2028-11-15,1,1,1
+PRJ-0073,Railways Project 73,Ministry of Power,Railways,Ongoing,866.42,1527.73,394.16,87.9,67,4.0,-62.1,76.3,62.1,2024-10-15,2030-04-17,1,1,1
+PRJ-0074,Oil & Gas Project 74,Ministry of Railways,Oil & Gas,Ongoing,69.51,110.0,60.1,22.9,54,0.0,31.8,58.3,31.8,2025-09-07,2030-02-13,1,1,1
+PRJ-0075,Telecom Project 75,Ministry of Railways,Telecom,Ongoing,746.49,801.18,708.13,41.8,28,7.6,46.5,7.3,46.5,2024-11-25,2027-03-15,1,1,1
+PRJ-0076,Rural Roads Project 76,Ministry of Housing & Urban Affairs,Rural Roads,Completed,224.93,264.74,275.06,97.8,56,3.3,6.1,17.7,6.1,2025-06-21,2030-01-26,0,0,0
+PRJ-0077,Health Infra Project 77,Ministry of Agriculture,Health Infra,Delayed,418.2,743.08,672.79,55.3,29,8.5,35.2,77.7,35.2,2024-08-10,2026-12-28,1,1,1
+PRJ-0078,Telecom Project 78,Ministry of Power,Telecom,Ongoing,140.51,149.16,105.46,95.2,51,7.4,-24.5,6.2,24.5,2024-07-01,2028-09-08,1,1,1
+PRJ-0079,Rural Roads Project 79,Ministry of Road Transport & Highways,Rural Roads,Ongoing,667.32,1135.33,549.51,67.6,46,12.9,-19.2,70.1,19.2,2024-06-18,2028-03-29,1,1,1
+PRJ-0080,Health Infra Project 80,Ministry of Heavy Industries,Health Infra,Ongoing,112.12,120.35,50.44,15.1,31,0.0,26.8,7.3,26.8,2025-01-23,2027-08-11,1,1,1
+PRJ-0081,Health Infra Project 81,Ministry of Agriculture,Health Infra,Ongoing,525.29,686.8,476.44,64.3,23,11.7,5.1,30.7,5.1,2024-07-05,2026-05-26,1,1,1
+PRJ-0082,Power Transmission Project 82,"Ministry of Ports, Shipping & Waterways",Power Transmission,Ongoing,110.31,193.5,129.59,16.6,64,4.7,50.4,75.4,50.4,2024-08-30,2029-12-02,1,1,1
+PRJ-0083,Irrigation Project 83,Ministry of Civil Aviation,Irrigation,Ongoing,115.88,205.72,176.31,80.5,46,0.3,5.2,77.5,5.2,2024-01-20,2027-10-31,1,0,1
+PRJ-0084,Oil & Gas Project 84,Ministry of Education,Oil & Gas,Stalled,522.97,882.83,455.49,84.2,67,7.1,-32.7,68.8,32.7,2024-11-18,2030-05-21,1,1,1
+PRJ-0085,Steel Plants Project 85,Ministry of Housing & Urban Affairs,Steel Plants,Ongoing,30.02,36.26,26.42,23.0,37,6.6,49.9,20.8,49.9,2025-03-29,2028-04-12,1,1,1
+PRJ-0086,Ports Project 86,Ministry of Power,Ports,Delayed,34.22,58.27,45.92,51.0,51,13.3,27.8,70.3,27.8,2024-04-01,2028-06-09,1,1,1
+PRJ-0087,Airports Project 87,Ministry of Civil Aviation,Airports,Stalled,995.41,1760.93,919.87,57.3,42,12.3,-5.0,76.9,5.0,2025-06-18,2028-11-29,1,1,1
+PRJ-0088,Agriculture Infra Project 88,Ministry of Railways,Agriculture Infra,Delayed,252.04,304.42,200.07,46.7,35,7.5,19.0,20.8,19.0,2024-12-30,2027-11-15,0,1,1
+PRJ-0089,Irrigation Project 89,Ministry of Education,Irrigation,Ongoing,342.01,598.44,419.09,84.0,61,7.3,-14.0,75.0,14.0,2024-11-19,2029-11-23,1,1,1
+PRJ-0090,Health Infra Project 90,Ministry of Agriculture,Health Infra,Under Review,39.34,62.93,15.99,75.9,23,2.0,-50.5,60.0,50.5,2024-01-07,2025-11-27,1,1,1
+PRJ-0091,Water Supply Project 91,Ministry of Jal Shakti,Water Supply,Ongoing,56.27,94.72,54.15,73.0,40,4.2,-15.8,68.3,15.8,2024-06-05,2027-09-18,1,0,1
+PRJ-0092,Urban Development Project 92,Ministry of Housing & Urban Affairs,Urban Development,Completed,327.66,443.6,435.3,97.8,69,0.0,0.3,35.4,0.3,2025-06-10,2031-02-09,1,0,1
+PRJ-0093,Ports Project 93,Ministry of Rural Development,Ports,Completed,294.45,493.45,462.0,95.6,14,0.0,-2.0,67.6,2.0,2024-12-14,2026-02-07,1,0,1
+PRJ-0094,Rural Roads Project 94,Ministry of Civil Aviation,Rural Roads,Delayed,2124.15,2233.26,1374.74,22.7,64,4.6,38.8,5.1,38.8,2025-01-20,2030-04-24,1,1,1
+PRJ-0095,Health Infra Project 95,Ministry of Agriculture,Health Infra,Delayed,835.66,1410.68,1091.69,32.4,19,5.0,45.0,68.8,45.0,2024-08-01,2026-02-22,1,1,1
+PRJ-0096,Roads & Highways Project 96,Ministry of Petroleum & Natural Gas,Roads & Highways,Delayed,61.82,66.17,28.48,61.9,44,11.1,-18.9,7.0,18.9,2025-08-11,2029-03-23,0,1,1
+PRJ-0097,Coal Mining Project 97,Ministry of Railways,Coal Mining,Ongoing,340.57,533.05,93.43,13.7,17,3.9,3.9,56.5,3.9,2024-03-13,2025-08-05,1,0,1
+PRJ-0098,Airports Project 98,Ministry of Education,Airports,Delayed,3252.12,5291.41,2829.44,79.3,52,2.8,-25.9,62.7,25.9,2025-11-30,2030-03-09,1,1,1
+PRJ-0099,Urban Development Project 99,Ministry of Heavy Industries,Urban Development,Completed,129.65,153.35,146.21,95.2,52,6.9,0.2,18.3,0.2,2024-02-28,2028-06-06,0,1,1
+PRJ-0100,Power Transmission Project 100,Ministry of Housing & Urban Affairs,Power Transmission,Completed,214.24,345.82,345.03,98.0,61,4.9,1.7,61.4,1.7,2025-11-19,2030-11-23,1,0,1
+PRJ-0101,Power Generation Project 101,Ministry of Heavy Industries,Power Generation,Delayed,953.61,1435.42,1057.17,93.0,46,9.9,-19.4,50.5,19.4,2025-06-03,2029-03-14,1,1,1
+PRJ-0102,Agriculture Infra Project 102,Ministry of Civil Aviation,Agriculture Infra,Ongoing,192.5,283.81,174.13,62.6,31,6.8,-1.3,47.4,1.3,2024-05-09,2026-11-25,1,1,1
+PRJ-0103,Irrigation Project 103,Ministry of Power,Irrigation,Ongoing,1920.07,2529.36,859.03,95.5,42,0.0,-61.5,31.7,61.5,2025-01-29,2028-07-12,1,1,1
+PRJ-0104,Oil & Gas Project 104,Ministry of Heavy Industries,Oil & Gas,Ongoing,533.1,834.53,236.7,12.7,31,7.4,15.7,56.5,15.7,2024-10-10,2027-04-28,1,1,1
+PRJ-0105,Telecom Project 105,Ministry of Rural Development,Telecom,Ongoing,301.48,431.7,76.56,87.0,25,5.0,-69.2,43.2,69.2,2025-10-03,2027-10-23,1,1,1
+PRJ-0106,Roads & Highways Project 106,Ministry of Housing & Urban Affairs,Roads & Highways,Delayed,734.8,1002.11,563.67,70.8,61,4.4,-14.6,36.4,14.6,2025-03-03,2030-03-07,1,0,1
+PRJ-0107,Irrigation Project 107,Ministry of Civil Aviation,Irrigation,Under Review,437.32,526.64,357.75,48.5,66,4.0,19.4,20.4,19.4,2024-08-05,2030-01-06,0,0,0
+PRJ-0108,Education Infra Project 108,Ministry of Petroleum & Natural Gas,Education Infra,Stalled,449.63,665.67,600.9,36.2,25,12.7,54.0,48.0,54.0,2024-02-22,2026-03-13,1,1,1
+PRJ-0109,Oil & Gas Project 109,Ministry of Road Transport & Highways,Oil & Gas,Under Review,163.79,201.62,47.84,56.1,45,5.6,-32.3,23.1,32.3,2025-01-15,2028-09-26,1,1,1
+PRJ-0110,Oil & Gas Project 110,Department of Telecommunications,Oil & Gas,Ongoing,166.76,206.36,138.11,46.6,32,10.6,20.3,23.7,20.3,2025-10-16,2028-06-02,1,1,1
+PRJ-0111,Water Supply Project 111,Ministry of Road Transport & Highways,Water Supply,Delayed,170.1,249.99,71.19,83.4,25,13.1,-54.9,47.0,54.9,2024-01-03,2026-01-22,1,1,1
+PRJ-0112,Telecom Project 112,Ministry of Agriculture,Telecom,Under Review,17.76,18.02,5.53,58.1,66,0.0,-27.4,1.5,27.4,2024-12-01,2030-05-04,1,1,1
+PRJ-0113,Rural Roads Project 113,Ministry of Jal Shakti,Rural Roads,Delayed,174.72,268.38,239.85,30.0,39,8.3,59.4,53.6,59.4,2024-10-17,2027-12-31,1,1,1
+PRJ-0114,Coal Mining Project 114,Ministry of Heavy Industries,Coal Mining,Completed,121.82,199.14,199.73,95.0,67,0.0,5.3,63.5,5.3,2024-02-05,2029-08-07,1,0,1
+PRJ-0115,Oil & Gas Project 115,Ministry of Coal,Oil & Gas,Delayed,140.4,242.15,185.48,15.3,60,13.1,61.3,72.5,61.3,2024-06-02,2029-05-07,1,1,1
+PRJ-0116,Coal Mining Project 116,Ministry of Jal Shakti,Coal Mining,Delayed,484.81,712.32,202.59,35.0,46,16.1,-6.5,46.9,6.5,2024-04-17,2028-01-27,1,1,1
+PRJ-0117,Coal Mining Project 117,Ministry of Chemicals & Fertilizers,Coal Mining,Ongoing,126.91,141.3,52.23,89.1,18,0.0,-52.1,11.3,52.1,2025-08-19,2027-02-10,1,1,1
+PRJ-0118,Airports Project 118,Ministry of Chemicals & Fertilizers,Airports,Ongoing,390.7,496.1,433.8,86.0,56,0.0,1.4,27.0,1.4,2024-02-05,2028-09-11,1,0,1
+PRJ-0119,Agriculture Infra Project 119,Ministry of Jal Shakti,Agriculture Infra,Delayed,323.94,552.01,370.24,43.1,65,1.0,24.0,70.4,24.0,2025-01-15,2030-05-19,1,0,1
+PRJ-0120,Irrigation Project 120,Ministry of Jal Shakti,Irrigation,Ongoing,74.53,106.48,24.21,39.5,68,0.0,-16.8,42.9,16.8,2024-02-24,2029-09-25,1,0,1
+PRJ-0121,Agriculture Infra Project 121,Ministry of Health & Family Welfare,Agriculture Infra,Ongoing,691.17,825.9,567.59,72.7,31,3.9,-4.0,19.5,4.0,2025-02-09,2027-08-28,0,0,0
+PRJ-0122,Railways Project 122,Ministry of Civil Aviation,Railways,Ongoing,172.61,219.79,99.95,66.2,13,0.0,-20.7,27.3,20.7,2025-03-24,2026-04-18,1,0,1
+PRJ-0123,Power Generation Project 123,Ministry of Civil Aviation,Power Generation,Completed,1858.69,2440.15,2289.76,98.6,60,6.8,-4.8,31.3,4.8,2024-02-11,2029-01-15,1,1,1
+PRJ-0124,Education Infra Project 124,"Ministry of Ports, Shipping & Waterways",Education Infra,Ongoing,58.82,91.52,39.07,43.4,31,5.8,-0.7,55.6,0.7,2024-09-22,2027-04-10,1,0,1
+PRJ-0125,Power Generation Project 125,Ministry of Agriculture,Power Generation,Under Review,451.39,495.36,263.82,62.4,15,0.0,-9.1,9.7,9.1,2025-06-20,2026-09-13,0,0,0
+PRJ-0126,Steel Plants Project 126,Ministry of Civil Aviation,Steel Plants,Delayed,76.72,80.49,62.34,68.5,21,4.9,8.9,4.9,8.9,2024-12-10,2026-09-01,0,0,0
+PRJ-0127,Rural Roads Project 127,Ministry of Health & Family Welfare,Rural Roads,Ongoing,170.21,239.58,226.97,10.5,28,0.0,84.3,40.8,84.3,2024-04-10,2026-07-29,1,1,1
+PRJ-0128,Airports Project 128,Ministry of Power,Airports,Delayed,190.42,263.79,76.9,52.9,33,4.0,-23.7,38.5,23.7,2025-10-06,2028-06-22,1,0,1
+PRJ-0129,Irrigation Project 129,"Ministry of Ports, Shipping & Waterways",Irrigation,Ongoing,240.24,261.33,153.76,67.6,32,4.7,-8.8,8.8,8.8,2024-11-03,2027-06-21,0,0,0
+PRJ-0130,Oil & Gas Project 130,Ministry of Power,Oil & Gas,Delayed,169.27,298.76,76.64,77.1,28,7.6,-51.5,76.5,51.5,2024-04-29,2026-08-17,1,1,1
+PRJ-0131,Railways Project 131,Ministry of Chemicals & Fertilizers,Railways,Ongoing,739.24,1005.44,333.38,71.4,28,1.0,-38.2,36.0,38.2,2024-06-21,2026-10-09,1,1,1
+PRJ-0132,Water Supply Project 132,Ministry of Power,Water Supply,Under Review,305.4,485.59,210.07,79.7,57,7.2,-36.4,59.0,36.4,2024-08-15,2029-04-21,1,1,1
+PRJ-0133,Urban Development Project 133,Ministry of Steel,Urban Development,Ongoing,579.84,818.58,711.44,8.7,19,7.8,78.2,41.2,78.2,2024-12-25,2026-07-18,1,1,1
+PRJ-0134,Coal Mining Project 134,Ministry of Coal,Coal Mining,Completed,476.98,588.72,550.1,95.2,65,0.0,-1.8,23.4,1.8,2025-11-23,2031-03-27,0,0,0
+PRJ-0135,Education Infra Project 135,Ministry of Petroleum & Natural Gas,Education Infra,Ongoing,311.7,464.54,420.16,57.2,41,3.7,33.3,49.0,33.3,2024-06-20,2027-11-02,1,1,1
+PRJ-0136,Telecom Project 136,Ministry of Rural Development,Telecom,Stalled,336.66,404.6,305.08,45.9,32,1.5,29.5,20.2,29.5,2025-09-29,2028-05-16,1,1,1
+PRJ-0137,Agriculture Infra Project 137,Ministry of Chemicals & Fertilizers,Agriculture Infra,Ongoing,395.29,653.9,209.78,31.4,62,9.3,0.7,65.4,0.7,2025-02-10,2030-03-16,1,1,1
+PRJ-0138,Airports Project 138,Ministry of Power,Airports,Delayed,197.49,222.9,132.95,72.9,19,9.7,-13.2,12.9,13.2,2024-05-08,2025-11-29,0,1,1
+PRJ-0139,Education Infra Project 139,Ministry of Steel,Education Infra,Delayed,652.13,750.22,325.83,47.1,24,11.2,-3.6,15.0,3.6,2025-01-27,2027-01-17,0,1,1
+PRJ-0140,Steel Plants Project 140,Ministry of Railways,Steel Plants,Completed,215.45,301.98,277.9,98.3,58,5.2,-6.3,40.2,6.3,2025-01-15,2029-10-21,1,0,1
+PRJ-0141,Coal Mining Project 141,"Ministry of Ports, Shipping & Waterways",Coal Mining,Delayed,992.13,1065.94,661.48,36.0,15,18.3,26.1,7.4,26.1,2024-08-08,2025-11-01,1,1,1
+PRJ-0142,Water Supply Project 142,Ministry of Railways,Water Supply,Delayed,1043.19,1167.54,824.67,30.8,23,11.9,39.8,11.9,39.8,2025-06-25,2027-05-16,1,1,1
+PRJ-0143,Health Infra Project 143,Ministry of Rural Development,Health Infra,Under Review,307.3,410.86,270.73,41.0,59,1.3,24.8,33.7,24.8,2024-02-16,2028-12-21,1,0,1
+PRJ-0144,Rural Roads Project 144,Ministry of Coal,Rural Roads,Ongoing,375.18,424.79,301.69,43.1,41,3.3,27.9,13.2,27.9,2024-09-10,2028-01-23,1,1,1
+PRJ-0145,Power Generation Project 145,Ministry of Steel,Power Generation,Ongoing,453.19,619.31,332.18,39.6,17,9.6,14.0,36.7,14.0,2025-08-24,2027-01-16,1,1,1
+PRJ-0146,Urban Development Project 146,Ministry of Jal Shakti,Urban Development,Ongoing,140.16,184.88,164.19,28.9,36,0.0,59.9,31.9,59.9,2025-07-01,2028-06-15,1,1,1
+PRJ-0147,Coal Mining Project 147,Ministry of Health & Family Welfare,Coal Mining,Completed,103.4,173.97,165.41,95.4,29,0.0,-0.4,68.2,0.4,2024-09-06,2027-01-24,1,0,1
+PRJ-0148,Health Infra Project 148,Ministry of Chemicals & Fertilizers,Health Infra,Stalled,984.12,1604.28,1042.05,34.7,48,1.7,30.3,63.0,30.3,2024-11-09,2028-10-19,1,1,1
+PRJ-0149,Oil & Gas Project 149,Ministry of Heavy Industries,Oil & Gas,Ongoing,67.48,106.35,51.51,29.7,68,6.5,18.7,57.6,18.7,2024-11-22,2030-06-24,1,1,1
+PRJ-0150,Water Supply Project 150,"Ministry of Ports, Shipping & Waterways",Water Supply,Delayed,15.78,16.81,8.69,16.5,12,8.4,35.2,6.5,35.2,2025-05-31,2026-05-26,1,1,1
+PRJ-0151,Urban Development Project 151,Ministry of Petroleum & Natural Gas,Urban Development,Completed,112.54,183.33,189.59,96.0,18,0.0,7.4,62.9,7.4,2024-10-03,2026-03-27,1,0,1
+PRJ-0152,Oil & Gas Project 152,Ministry of Agriculture,Oil & Gas,Delayed,380.19,548.24,123.53,87.0,14,5.9,-64.4,44.2,64.4,2024-02-13,2025-04-08,1,1,1
+PRJ-0153,Steel Plants Project 153,Ministry of Housing & Urban Affairs,Steel Plants,Ongoing,970.81,1377.25,522.96,61.0,39,2.8,-23.0,41.9,23.0,2024-10-23,2028-01-06,1,0,1
+PRJ-0154,Urban Development Project 154,Ministry of Steel,Urban Development,Completed,680.84,853.37,801.98,98.3,14,10.8,-4.3,25.3,4.3,2024-10-09,2025-12-03,1,1,1
+PRJ-0155,Telecom Project 155,Ministry of Coal,Telecom,Completed,67.96,85.34,78.84,95.5,56,4.0,-3.1,25.6,3.1,2025-06-16,2030-01-21,1,0,1
+PRJ-0156,Irrigation Project 156,Ministry of Railways,Irrigation,Under Review,54.03,93.72,22.36,31.5,71,7.7,-7.7,73.5,7.7,2025-01-11,2030-11-11,1,1,1
+PRJ-0157,Power Generation Project 157,Ministry of Railways,Power Generation,Stalled,34.86,38.01,8.35,66.5,44,14.1,-44.5,9.0,44.5,2025-11-05,2029-06-17,1,1,1
+PRJ-0158,Irrigation Project 158,Ministry of Rural Development,Irrigation,Completed,1518.65,2543.72,2556.92,95.8,44,1.6,4.7,67.5,4.7,2024-09-28,2028-05-10,1,0,1
+PRJ-0159,Urban Development Project 159,Ministry of Education,Urban Development,Ongoing,119.94,126.51,96.22,52.2,64,5.9,23.8,5.5,23.8,2024-10-28,2030-01-30,1,0,1
+PRJ-0160,Education Infra Project 160,Ministry of Railways,Education Infra,Delayed,370.71,627.11,368.31,40.7,46,5.8,18.0,69.2,18.0,2025-10-20,2029-07-31,1,0,1
+PRJ-0161,Power Generation Project 161,Ministry of Agriculture,Power Generation,Completed,710.8,870.88,854.29,95.1,25,2.9,3.0,22.5,3.0,2024-04-29,2026-05-19,0,0,0
+PRJ-0162,Steel Plants Project 162,Ministry of Agriculture,Steel Plants,Ongoing,598.54,885.27,178.46,19.7,39,3.4,0.5,47.9,0.5,2025-05-28,2028-08-10,1,0,1
+PRJ-0163,Water Supply Project 163,Ministry of Health & Family Welfare,Water Supply,Ongoing,34.77,56.72,34.53,41.1,32,0.0,19.8,63.1,19.8,2024-11-20,2027-07-08,1,0,1
+PRJ-0164,Oil & Gas Project 164,Ministry of Coal,Oil & Gas,Delayed,535.9,720.43,290.74,72.4,23,16.1,-32.0,34.4,32.0,2024-06-22,2026-05-13,1,1,1
+PRJ-0165,Airports Project 165,Ministry of Jal Shakti,Airports,Ongoing,1185.47,1407.56,1097.06,42.4,14,0.0,35.5,18.7,35.5,2025-05-06,2026-06-30,1,1,1
+PRJ-0166,Telecom Project 166,Ministry of Rural Development,Telecom,Delayed,309.06,533.41,181.94,87.6,53,5.2,-53.5,72.6,53.5,2025-03-24,2029-07-31,1,1,1
+PRJ-0167,Agriculture Infra Project 167,Ministry of Rural Development,Agriculture Infra,Delayed,349.85,429.59,223.51,66.9,64,13.2,-14.9,22.8,14.9,2024-11-13,2030-02-15,0,1,1
+PRJ-0168,Airports Project 168,Ministry of Coal,Airports,Delayed,271.41,423.89,400.26,70.7,24,10.5,23.7,56.2,23.7,2024-05-06,2026-04-26,1,1,1
+PRJ-0169,Rural Roads Project 169,Ministry of Heavy Industries,Rural Roads,Ongoing,558.6,559.54,405.14,71.4,58,3.9,1.0,0.2,1.0,2025-11-19,2030-08-25,0,0,0
+PRJ-0170,Irrigation Project 170,Ministry of Jal Shakti,Irrigation,Ongoing,1518.8,1605.08,343.72,22.6,26,7.1,-1.2,5.7,1.2,2024-02-10,2026-03-31,0,1,1
+PRJ-0171,Agriculture Infra Project 171,Ministry of Chemicals & Fertilizers,Agriculture Infra,Ongoing,572.41,852.92,724.1,77.3,31,2.9,7.6,49.0,7.6,2025-03-29,2027-10-15,1,0,1
+PRJ-0172,Power Generation Project 172,Ministry of Heavy Industries,Power Generation,Ongoing,195.71,338.21,269.35,37.0,42,0.0,42.6,72.8,42.6,2024-10-05,2028-03-18,1,1,1
+PRJ-0173,Power Generation Project 173,Ministry of Jal Shakti,Power Generation,Ongoing,936.0,1378.01,456.15,29.3,43,4.3,3.8,47.2,3.8,2025-03-26,2028-10-06,1,0,1
+PRJ-0174,Rural Roads Project 174,Ministry of Chemicals & Fertilizers,Rural Roads,Ongoing,176.46,231.94,132.35,56.8,45,3.0,0.3,31.4,0.3,2025-03-15,2028-11-24,1,0,1
+PRJ-0175,Coal Mining Project 175,Ministry of Education,Coal Mining,Delayed,44.92,47.5,22.69,78.8,60,10.1,-31.1,5.7,31.1,2025-07-29,2030-07-03,1,1,1
+PRJ-0176,Power Generation Project 176,Ministry of Housing & Urban Affairs,Power Generation,Under Review,144.94,148.53,68.38,53.0,53,8.9,-7.0,2.5,7.0,2025-07-16,2029-11-22,0,1,1
+PRJ-0177,Irrigation Project 177,Ministry of Housing & Urban Affairs,Irrigation,Under Review,564.73,837.13,679.22,43.6,60,4.1,37.5,48.2,37.5,2024-03-17,2029-02-19,1,1,1
+PRJ-0178,Power Generation Project 178,Department of Telecommunications,Power Generation,Ongoing,95.07,99.45,42.16,83.5,55,5.5,-41.1,4.6,41.1,2025-06-16,2029-12-22,1,1,1
+PRJ-0179,Agriculture Infra Project 179,Ministry of Power,Agriculture Infra,Delayed,11.75,21.09,18.02,71.4,51,7.8,14.0,79.5,14.0,2024-08-01,2028-10-09,1,1,1
+PRJ-0180,Railways Project 180,Ministry of Jal Shakti,Railways,Completed,123.81,176.64,184.78,95.2,32,2.6,9.4,42.7,9.4,2025-01-29,2027-09-16,1,0,1
+PRJ-0181,Telecom Project 181,Ministry of Heavy Industries,Telecom,Completed,536.17,747.18,722.59,99.6,47,4.6,-2.9,39.4,2.9,2024-04-11,2028-02-20,1,0,1
+PRJ-0182,Health Infra Project 182,Ministry of Education,Health Infra,Delayed,353.66,624.15,193.72,44.2,20,3.7,-13.2,76.5,13.2,2024-04-25,2025-12-16,1,0,1
+PRJ-0183,Power Generation Project 183,Ministry of Chemicals & Fertilizers,Power Generation,Delayed,149.61,192.54,152.79,45.1,35,11.6,34.2,28.7,34.2,2025-06-30,2028-05-15,1,1,1
+PRJ-0184,Health Infra Project 184,Ministry of Road Transport & Highways,Health Infra,Ongoing,454.6,728.61,557.48,44.5,20,0.0,32.0,60.3,32.0,2024-05-06,2025-12-27,1,1,1
+PRJ-0185,Urban Development Project 185,Ministry of Jal Shakti,Urban Development,Ongoing,788.44,1134.81,744.06,29.7,24,0.0,35.9,43.9,35.9,2025-11-15,2027-11-05,1,1,1
+PRJ-0186,Health Infra Project 186,Department of Telecommunications,Health Infra,Ongoing,224.59,379.72,178.86,67.6,34,5.0,-20.5,69.1,20.5,2025-09-23,2028-07-09,1,0,1
+PRJ-0187,Water Supply Project 187,Department of Telecommunications,Water Supply,Completed,55.31,93.67,89.87,96.2,47,4.6,-0.2,69.4,0.2,2025-03-31,2029-02-08,1,0,1
+PRJ-0188,Agriculture Infra Project 188,Ministry of Jal Shakti,Agriculture Infra,Stalled,30.39,47.91,22.57,74.9,42,8.1,-27.7,57.7,27.7,2024-10-16,2028-03-29,1,1,1
+PRJ-0189,Water Supply Project 189,Ministry of Civil Aviation,Water Supply,Ongoing,658.6,825.24,191.05,40.9,12,6.0,-17.8,25.3,17.8,2025-09-10,2026-09-05,1,0,1
+PRJ-0190,Agriculture Infra Project 190,Ministry of Education,Agriculture Infra,Ongoing,504.69,777.28,188.74,64.6,34,4.1,-40.3,54.0,40.3,2024-08-05,2027-05-22,1,1,1
+PRJ-0191,Agriculture Infra Project 191,Ministry of Chemicals & Fertilizers,Agriculture Infra,Ongoing,111.06,171.13,154.91,42.1,20,0.0,48.4,54.1,48.4,2025-06-16,2027-02-06,1,1,1
+PRJ-0192,Power Generation Project 192,Ministry of Coal,Power Generation,Delayed,126.39,163.78,31.43,20.1,52,6.1,-0.9,29.6,0.9,2024-01-13,2028-04-21,1,1,1
+PRJ-0193,Power Transmission Project 193,Ministry of Road Transport & Highways,Power Transmission,Delayed,3055.1,4540.49,1753.73,68.3,35,17.8,-29.7,48.6,29.7,2024-09-19,2027-08-05,1,1,1
+PRJ-0194,Power Transmission Project 194,Ministry of Road Transport & Highways,Power Transmission,Ongoing,280.38,465.05,360.7,67.5,64,5.7,10.0,65.9,10.0,2024-02-13,2029-05-17,1,0,1
+PRJ-0195,Water Supply Project 195,Ministry of Railways,Water Supply,Ongoing,188.36,249.28,143.27,80.1,65,0.7,-22.6,32.3,22.6,2025-06-19,2030-10-21,1,0,1
+PRJ-0196,Coal Mining Project 196,Ministry of Heavy Industries,Coal Mining,Completed,163.48,269.04,258.01,95.0,17,3.2,0.9,64.6,0.9,2025-01-25,2026-06-19,1,0,1
+PRJ-0197,Oil & Gas Project 197,Ministry of Education,Oil & Gas,Delayed,260.1,432.76,274.76,48.4,67,11.2,15.1,66.4,15.1,2025-03-31,2030-10-01,1,1,1
+PRJ-0198,Health Infra Project 198,Department of Telecommunications,Health Infra,Ongoing,677.83,1214.78,414.64,63.2,67,10.4,-29.1,79.2,29.1,2025-08-30,2031-03-02,1,1,1
+PRJ-0199,Telecom Project 199,Ministry of Rural Development,Telecom,Delayed,62.52,111.62,63.82,15.9,15,8.8,41.3,78.5,41.3,2025-02-15,2026-05-11,1,1,1
+PRJ-0200,Irrigation Project 200,Ministry of Rural Development,Irrigation,Delayed,154.52,182.98,33.97,14.8,44,6.2,3.7,18.4,3.7,2025-02-25,2028-10-07,0,1,1
+PRJ-0201,Coal Mining Project 201,Ministry of Agriculture,Coal Mining,Ongoing,3815.16,6452.08,3452.29,78.7,56,4.9,-25.2,69.1,25.2,2024-08-22,2029-03-29,1,1,1
+PRJ-0202,Rural Roads Project 202,Ministry of Coal,Rural Roads,Delayed,10.93,19.26,10.94,66.3,23,10.6,-9.5,76.2,9.5,2024-05-18,2026-04-08,1,1,1
+PRJ-0203,Ports Project 203,Ministry of Railways,Ports,Ongoing,211.44,292.11,211.68,53.2,58,2.5,19.3,38.2,19.3,2025-08-28,2030-06-03,1,0,1
+PRJ-0204,Irrigation Project 204,Ministry of Coal,Irrigation,Ongoing,1595.12,2050.72,1827.1,16.7,53,0.6,72.4,28.6,72.4,2024-09-11,2029-01-18,1,1,1
+PRJ-0205,Power Generation Project 205,Ministry of Housing & Urban Affairs,Power Generation,Stalled,336.65,336.77,293.36,58.0,65,10.9,29.1,0.0,29.1,2024-09-03,2030-01-05,1,1,1
+PRJ-0206,Water Supply Project 206,Ministry of Agriculture,Water Supply,Completed,398.53,512.85,481.7,99.8,61,5.1,-5.9,28.7,5.9,2024-02-27,2029-03-02,1,0,1
+PRJ-0207,Oil & Gas Project 207,Department of Telecommunications,Oil & Gas,Under Review,38.54,56.43,31.79,65.2,37,1.9,-8.8,46.4,8.8,2025-02-06,2028-02-21,1,0,1
+PRJ-0208,Education Infra Project 208,Ministry of Housing & Urban Affairs,Education Infra,Completed,158.69,184.67,182.07,99.7,52,7.6,-1.1,16.4,1.1,2025-01-02,2029-04-11,0,1,1
+PRJ-0209,Power Transmission Project 209,Ministry of Petroleum & Natural Gas,Power Transmission,Delayed,157.19,254.16,171.23,34.6,14,4.8,32.8,61.7,32.8,2024-10-16,2025-12-10,1,1,1
+PRJ-0210,Coal Mining Project 210,Ministry of Housing & Urban Affairs,Coal Mining,Ongoing,807.53,841.06,254.75,70.2,23,9.8,-39.9,4.2,39.9,2024-02-07,2025-12-28,1,1,1
+PRJ-0211,Rural Roads Project 211,Ministry of Housing & Urban Affairs,Rural Roads,Completed,140.85,242.48,240.25,95.4,50,0.0,3.7,72.2,3.7,2025-06-11,2029-07-20,1,0,1
+PRJ-0212,Railways Project 212,Ministry of Steel,Railways,Completed,484.04,500.47,493.54,97.6,15,5.7,1.0,3.4,1.0,2025-07-13,2026-10-06,0,0,0
+PRJ-0213,Water Supply Project 213,Ministry of Jal Shakti,Water Supply,Under Review,464.71,730.27,379.28,72.3,12,6.3,-20.4,57.1,20.4,2025-02-10,2026-02-05,1,1,1
+PRJ-0214,Oil & Gas Project 214,Ministry of Coal,Oil & Gas,Ongoing,414.64,655.81,393.26,82.4,66,1.0,-22.4,58.2,22.4,2024-07-10,2029-12-11,1,0,1
+PRJ-0215,Water Supply Project 215,Ministry of Jal Shakti,Water Supply,Ongoing,39.59,61.91,49.76,19.1,68,2.7,61.3,56.4,61.3,2024-06-16,2030-01-16,1,1,1
+PRJ-0216,Rural Roads Project 216,Department of Telecommunications,Rural Roads,Completed,18.47,20.42,19.45,99.0,31,0.9,-3.7,10.5,3.7,2024-04-04,2026-10-21,0,0,0
+PRJ-0217,Rural Roads Project 217,Ministry of Power,Rural Roads,Under Review,48.69,55.03,16.48,68.7,23,0.0,-38.7,13.0,38.7,2024-05-05,2026-03-26,1,1,1
+PRJ-0218,Education Infra Project 218,Ministry of Housing & Urban Affairs,Education Infra,Delayed,102.08,108.93,45.4,31.3,33,11.5,10.3,6.7,10.3,2024-07-15,2027-04-01,0,1,1
+PRJ-0219,Coal Mining Project 219,Ministry of Agriculture,Coal Mining,Stalled,682.79,689.06,351.49,71.5,21,1.6,-20.5,0.9,20.5,2024-01-17,2025-10-08,1,0,1
+PRJ-0220,Water Supply Project 220,Ministry of Rural Development,Water Supply,Ongoing,90.54,125.53,45.8,31.5,71,0.0,5.0,38.6,5.0,2025-08-08,2031-06-08,1,0,1
+PRJ-0221,Urban Development Project 221,Ministry of Education,Urban Development,Ongoing,2036.22,2782.33,622.34,56.7,13,8.3,-34.3,36.6,34.3,2025-02-17,2026-03-14,1,1,1
+PRJ-0222,Roads & Highways Project 222,Ministry of Coal,Roads & Highways,Delayed,622.38,746.62,113.2,54.4,15,11.0,-39.3,20.0,39.3,2024-03-05,2025-05-29,1,1,1
+PRJ-0223,Roads & Highways Project 223,Department of Telecommunications,Roads & Highways,Ongoing,1164.41,1707.42,601.83,39.0,47,0.0,-3.7,46.6,3.7,2024-03-23,2028-02-01,1,0,1
+PRJ-0224,Health Infra Project 224,Ministry of Education,Health Infra,Completed,206.62,291.37,292.83,96.0,30,0.0,4.5,41.0,4.5,2024-09-04,2027-02-21,1,0,1
+PRJ-0225,Steel Plants Project 225,Ministry of Road Transport & Highways,Steel Plants,Delayed,25.71,33.37,13.89,41.3,29,6.0,0.3,29.8,0.3,2025-07-03,2027-11-20,1,0,1
+PRJ-0226,Steel Plants Project 226,Ministry of Civil Aviation,Steel Plants,Delayed,1427.61,1734.66,771.51,57.3,65,2.9,-12.8,21.5,12.8,2025-07-02,2030-11-03,0,0,0
+PRJ-0227,Power Transmission Project 227,Ministry of Petroleum & Natural Gas,Power Transmission,Delayed,387.39,517.36,284.58,39.7,22,12.0,15.3,33.6,15.3,2025-11-28,2027-09-19,1,1,1
+PRJ-0228,Roads & Highways Project 228,Ministry of Education,Roads & Highways,Completed,239.88,318.5,329.52,98.3,12,4.8,5.1,32.8,5.1,2025-09-05,2026-08-31,1,0,1
+PRJ-0229,Power Transmission Project 229,Ministry of Power,Power Transmission,Ongoing,781.97,975.78,341.49,79.6,67,0.5,-44.6,24.8,44.6,2025-06-18,2030-12-19,1,1,1
+PRJ-0230,Power Transmission Project 230,Ministry of Housing & Urban Affairs,Power Transmission,Delayed,484.59,629.39,231.11,66.6,27,2.8,-29.8,29.9,29.8,2024-04-06,2026-06-25,1,1,1
+PRJ-0231,Coal Mining Project 231,Ministry of Housing & Urban Affairs,Coal Mining,Stalled,132.71,176.72,28.38,5.0,20,5.8,11.1,33.2,11.1,2024-10-11,2026-06-03,1,0,1
+PRJ-0232,Railways Project 232,Ministry of Petroleum & Natural Gas,Railways,Delayed,148.41,242.14,93.81,72.4,65,3.6,-33.7,63.2,33.7,2024-10-15,2030-02-16,1,1,1
+PRJ-0233,Railways Project 233,Ministry of Jal Shakti,Railways,Delayed,44.65,46.71,21.62,58.6,30,0.1,-12.3,4.6,12.3,2024-04-27,2026-10-14,0,0,0
+PRJ-0234,Coal Mining Project 234,Ministry of Power,Coal Mining,Ongoing,25.64,41.1,12.86,61.1,45,2.3,-29.8,60.3,29.8,2025-05-13,2029-01-22,1,1,1
+PRJ-0235,Water Supply Project 235,"Ministry of Ports, Shipping & Waterways",Water Supply,Ongoing,2484.25,3263.03,2827.55,5.0,18,2.3,81.7,31.3,81.7,2024-11-09,2026-05-03,1,1,1
+PRJ-0236,Steel Plants Project 236,Ministry of Education,Steel Plants,Delayed,97.71,117.51,18.56,67.6,39,7.1,-51.8,20.3,51.8,2024-03-13,2027-05-27,1,1,1
+PRJ-0237,Airports Project 237,Ministry of Coal,Airports,Delayed,365.21,623.07,325.89,73.7,64,8.8,-21.4,70.6,21.4,2025-06-25,2030-09-27,1,1,1
+PRJ-0238,Agriculture Infra Project 238,Ministry of Rural Development,Agriculture Infra,Delayed,1008.33,1422.45,1339.05,8.1,31,7.1,86.1,41.1,86.1,2024-08-08,2027-02-24,1,1,1
+PRJ-0239,Steel Plants Project 239,Ministry of Jal Shakti,Steel Plants,Delayed,534.76,741.81,114.43,39.8,71,15.0,-24.4,38.7,24.4,2025-04-26,2031-02-24,1,1,1
+PRJ-0240,Airports Project 240,Department of Telecommunications,Airports,Delayed,402.45,646.66,104.57,26.9,30,9.1,-10.7,60.7,10.7,2024-02-13,2026-08-01,1,1,1
+PRJ-0241,Power Transmission Project 241,Ministry of Power,Power Transmission,Stalled,1647.47,2051.96,989.0,79.7,22,12.7,-31.5,24.6,31.5,2024-02-23,2025-12-14,1,1,1
+PRJ-0242,Water Supply Project 242,Ministry of Health & Family Welfare,Water Supply,Delayed,687.15,760.62,384.18,38.8,34,11.6,11.8,10.7,11.8,2025-10-19,2028-08-04,0,1,1
+PRJ-0243,Agriculture Infra Project 243,Ministry of Road Transport & Highways,Agriculture Infra,Completed,29.43,44.84,45.33,95.4,21,5.5,5.6,52.4,5.6,2025-03-12,2026-12-02,1,0,1
+PRJ-0244,Roads & Highways Project 244,Ministry of Heavy Industries,Roads & Highways,Ongoing,372.26,383.87,262.37,21.7,17,5.4,46.7,3.1,46.7,2024-08-04,2025-12-27,1,1,1
+PRJ-0245,Agriculture Infra Project 245,Ministry of Petroleum & Natural Gas,Agriculture Infra,Completed,139.35,203.64,213.76,99.3,59,0.0,5.7,46.1,5.7,2024-01-27,2028-12-01,1,0,1
+PRJ-0246,Health Infra Project 246,Ministry of Power,Health Infra,Ongoing,300.85,515.47,427.5,37.8,65,7.8,45.2,71.3,45.2,2025-05-22,2030-09-23,1,1,1
+PRJ-0247,Steel Plants Project 247,Ministry of Education,Steel Plants,Ongoing,209.8,277.33,128.26,46.4,15,7.2,-0.1,32.2,0.1,2025-07-26,2026-10-19,1,1,1
+PRJ-0248,Steel Plants Project 248,Ministry of Health & Family Welfare,Steel Plants,Stalled,380.38,444.78,420.99,5.8,23,7.7,88.9,16.9,88.9,2025-07-15,2027-06-05,1,1,1
+PRJ-0249,Telecom Project 249,Ministry of Chemicals & Fertilizers,Telecom,Delayed,111.75,173.52,122.8,44.1,52,3.6,26.7,55.3,26.7,2024-06-30,2028-10-07,1,1,1
+PRJ-0250,Water Supply Project 250,Ministry of Education,Water Supply,Completed,458.38,714.94,710.96,95.8,65,14.7,3.7,56.0,3.7,2025-06-15,2030-10-17,1,1,1

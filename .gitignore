@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/secrets.toml
+models/*.cbm
+models/*.joblib
+*.log
+.idea/
+.vscode/
+EOF
